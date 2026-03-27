@@ -1,2 +1,3 @@
-# nale-Lab_07_Plotly
-Submission repository for nale Lab_07_Plotly
+# Lab_07_Plotly
+
+Submission repository for Lab_07_Plotly
